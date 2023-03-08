@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = Smart-i
+title = Smart-E
 
 # (str) Package name
 package.name = Smart
